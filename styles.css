@@ -1,0 +1,9 @@
+body {
+}
+
+.navbar {
+  display: flex;
+  background-color: #1f2937;
+  width: auto;
+  height: 100px;
+}
